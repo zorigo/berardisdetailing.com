@@ -84,7 +84,7 @@ BODY</a></span>&nbsp; <span class="seperator">|</span>&nbsp;
 <a href="paint-protection.html" class="sublinks">PAINT PROTECTION </a>&nbsp;<span class="seperator">|</span>&nbsp;
 <a href="gallery.html" class="sublinks">GALLERY</a></div>
 		<div style="position: absolute; width: 100px; height: 100px; z-index: 101" id="logo" class="logo">
-			<a href="/">
+			<a href="tel:6106929299">
 			<img alt="Berardi's Auto Detailing" src="img/logo.png" width="312" height="138" class="imglink" /></a></div>
 		<span class="nav" id="nav"><a href="/">HOME</a>&nbsp; |&nbsp; 
 		<a href="about-us.html">ABOUT US</a>&nbsp; |&nbsp;
