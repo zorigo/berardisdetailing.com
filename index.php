@@ -251,7 +251,7 @@ BODY</a></span>&nbsp; <span class="seperator">|</span>&nbsp;
 		<div id="box1" class="box1">
 			<strong>Get Updates &amp; Specials </strong> <br />
 			Join Our Mailing List:<strong><form method="post" action="/send-email.ashx">
-				<input name="email" type="text" style="width: 182px" />&nbsp;
+				<input name="contact-email" type="text" style="width: 182px" />&nbsp;
 				<input name="submit" type="submit" value="Go" style="width: 34px; height: 28px" /></form>
 			</strong>
 		  <p><strong>			Keep Up With Us </strong><br />
