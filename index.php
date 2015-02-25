@@ -95,26 +95,28 @@ BODY</a></span>&nbsp; <span class="seperator">|</span>&nbsp;
 	<div id="sheet" class="sheet">
 		<div id="siderbar" class="sidebar" style="left: 20px; top: 20px">
 		  <p>&nbsp;</p>
-		  <h2 align="center" class="style3"><em>In 2012 Berardi's  was awarded</em></h2>
+		  <h2 align="center" class="style3"><em>In 2014 Berardi's  was awarded</em></h2>
 		  <h2 align="center"><span class="style3"><em>&quot;BEST OF PHILLY&quot;<br />
   in Philadelphia Magazine</em></span></h2>
-		  <p align="center"><img src= "../BOP12.png" width="211" height="207" align="center" />		  </p>
-		  <h2 align="center" class="style3"><em>In 2011 Berardi's  was awarded<br />
+		  <p align="center"><img src= "../best-of-philly-2014.png" width="211" height="211" align="center" />		  </p>
+		  <h2 align="center" class="style3"><em>In 2013 Berardi's  was awarded<br />
 		  First Place in the Daily Local News<br />
 		  Reader's Choice Awards</em></h2>
-		  <p><img src="img/dln2.jpg" align="center" />		  </p>
+		  <p><img src="img/readers-choice-2013.png" align="center" />		  </p>
 		</div>
 <br />
 		<div id="contentbox" class="contentstyle">
 			<h1 style=" font-size:20px">Welcome to Berardi's <?php echo $city?> <?php echo $state?> Auto Detailing and Auto Body!</h1>
 			<p><br />
-			  At Berardi's Auto Detailing, we aspire to be the most recognized shop in the <?php echo $city?> <?php echo $state?> area for quality and customer satisfaction. We want your automotive experience to be a positive one, whether you are having your vehicle come in for auto detailing, auto body repair, auto painting, car repair, auto glass replacement, paintless dent removal, window tinting, or any of our specialty auto detailing services. We use only the latest, newest, and most sophisticated automotive equipment available in <?php echo $city?> <?php echo $state?> for every auto detailing job. Our technicians are factory trained with many years of experience to ensure that your automobile will look and drive showroom new.<br /><br />
+			  At Berardi’s Car Detailing & Auto Body Shop, we are the best car detailing & auto body repair shop in the <?php echo $city?> <?php echo $state?> area for quality and customer satisfaction. We want your car detailing & auto body repair experience to be a positive one, whether you are having your car come in for auto detailing, auto body repair, automobile paint, auto repair, auto glass replacement, paintless dent repair, window tinting, ding and dent repair, or any of our specialty services. We use only the latest, newest most sophisticated automotive equipment available. Our technicians are factory-trained with years of experience to ensure that your car will look and drive showroom new. <br /><br />
 			  
-			  We here at Berardi's Auto Detailing also recognize the importance of being visible to <?php echo $city?> <?php echo $state?> and the internet community. For this reason we are pleased and excited to bring you an all new web site complete with information about auto body repair, auto detailing, car repair, auto glass replacement, paintless dent removal, and specialty services.
+			  We here at Berardi's Auto Body Shop and Car Detailing also recognize the importance of being visible to the internet community. For this reason we are pleased and excited to bring you an all new auto body shop web site complete with information about auto body repair, auto detailing, auto repair, car painting, auto glass replacement, paintless dent repair, glass tinting, car wash, and specialty services. 
   <br /><br />
-			  Our auto detailing services are available six days a week by appointment, and our detailing work is backed by our customer satisfaction guarantee. Berardi's offers free pick up and delivery from your <?php echo $city?> <?php echo $state?> home or office and has rental car available.<br /><br />
+			  Our car detailing and auto body shop services are available six days a week by appointment, and our work is backed by our customer satisfaction guarantee. Berardi's Car Detailing and Auto Body Shop offers free pick up and delivery from your home or office and has rental cars available.<br /><br />
 			  
-			  Thank you for visiting the Berardi's Auto Detailing web site.  We specialize in auto detailing, auto body repair, and paintless dent removal.  We hope you enjoy your visit and we look forward to seeing you soon. <br />
+			  Berardi's Detailing was awarded by Philadelphia Magazine "Best of Philly".  A writeup appears in the August issue of Philadelphia Magazine.  For 42 years Best of Philly has been a recognized mark of excellence in Philadelphia--signifying that, in the estimation of their editors nobody is better at what they do.  Berardi's Detailing and Auto Body is honored and excited to be the areas best. <br/><br/>
+
+			  Thank you for visiting Berardi's Auto Body, the best  auto body repair shop for all your auto repairs, auto body, car detailing, window tinting, auto painting, car wash, and ding and dent repair needs. We hope you enjoy your visit and we look forward to seeing you soon. <br />
 		  </p>
 			<p align="center">
 			  <iframe width="420" height="236" src="http://www.youtube.com/embed/DM7QW20_Wug" frameborder="0" allowfullscreen ></iframe>
